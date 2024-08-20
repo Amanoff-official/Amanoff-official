@@ -1,6 +1,6 @@
-# Salam! 👋
-
-Men 𝑨𝒎𝒂𝒏𝒐𝒇𝒇 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salam!+👋;+Men+Amanoff+Official!;" />
+</h1>
 
 ## 📫 Habarlaşmak üçin
 
@@ -12,11 +12,17 @@ Men 𝑨𝒎𝒂𝒏𝒐𝒇𝒇 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍.
 - [YouTube](https://youtube.com/@amanoff-official)
 - [GitHub](https://github.com/Amanoff-official)
 
-## 🛠️ Başarnyklar
+<h2 align="center">⚒️ Başarnyklarym ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bash,c,html,css,bootstrap,vue,js,py,java"/>
+</div>
+<br>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=arch,kali,androidstudio,aws,azure,cloudflare,git,ai,ps,vscode"/>
+</div>
 
-- Python programmirleme
-- Web sahypalary döretmek
-- Android programmalary döretmek
+<br/>
 
 
 <!---
