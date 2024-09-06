@@ -10,7 +10,7 @@
   </a>
   
   <a href="https://t.me/Official_amanoff">
-    <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=blue" />
   </a>
 </div>
 
