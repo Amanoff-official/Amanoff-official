@@ -9,7 +9,10 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </div>
 
-- Telegram: [@Official_amanoff](https://t.me/Official_amanoff)
+<div align="center"> 
+  <a href="https://t.me/Official_amanoff">
+    <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=white" />
+</div>
 
 ## 📺 Meniň profillerim
 
