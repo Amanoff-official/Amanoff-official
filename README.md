@@ -4,14 +4,14 @@
 
 ## 📫 Habarlaşmak üçin
 
-<div align="center"> 
+<div style="display: flex; justify-content: center; gap: 10px;"> 
   <a href="mailto:hackercompany08@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-</div>
-
-<div align="center"> 
+  </a>
+  
   <a href="https://t.me/Official_amanoff">
     <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </div>
 
 ## 📺 Meniň profillerim
