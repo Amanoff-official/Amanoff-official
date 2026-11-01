@@ -96,13 +96,30 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amanoff-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanoff-official&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- Счетчик просмотров профиля -->
+  <img src="https://komarev.com" alt="Amanoff-official views" />
+  
+  <br/><br/>
 
-<br/>
+  <!-- Основная статистика и Языки (в один ряд) -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amanoff-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanoff-official&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanoff-official&theme=tokyonight&hide_border=true" />
+  <br/><br/>
+
+  <!-- Серия коммитов (Streak) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanoff-official&theme=tokyonight&hide_border=true" />
+
+  <br/><br/>
+  
+  <!-- Анимированная змейка, ползающая по календарю активности -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+    <img alt="github contribution grid snake" src="https://githubusercontent.com">
+  </picture>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%" />
+<!-- Красивый футер-волна -->
+<img src="https://vercel.app" width="100%" />
