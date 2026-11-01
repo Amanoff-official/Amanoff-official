@@ -57,16 +57,12 @@
 <a href="mailto:hackercompany08@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://t.me/Official_amanoff">
+<a href="https://t.me/Amanoff_Officiall">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://youtube.com/@amanoff-official">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-<a href="https://github.com/Amanoff-official">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<br/>
 <a href="https://www.tiktok.com/@amanoff_official08">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
@@ -76,7 +72,10 @@
 <a href="https://x.com/Amanoff_08">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-
+<a href="https://github.com/Amanoff-official">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br/>
 </div>
 
 ---
